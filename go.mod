@@ -10,7 +10,7 @@ require (
 	github.com/gorilla/schema v1.1.0
 	github.com/lib/pq v1.3.0
 	github.com/sirupsen/logrus v1.4.2
-	github.com/stretchr/testify v1.4.0
-	go.mongodb.org/mongo-driver v1.3.0
-	golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3
+	github.com/stretchr/testify v1.6.1
+	go.mongodb.org/mongo-driver v1.5.1
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 )
